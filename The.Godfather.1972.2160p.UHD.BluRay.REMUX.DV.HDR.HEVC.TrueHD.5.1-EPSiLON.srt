@@ -1,4 +1,12 @@
-﻿3
+﻿1
+-00:00:01,542 --> 00:00:21,086
+Rizal Adam
+
+2
+00:00:34,074 --> 00:00:40,202
+Rizal Adam
+
+3
 00:00:51,500 --> 00:00:57,381
 Aku percaya pada Amerika.
 Amerika telah beri rezeki untukku.
@@ -3566,8 +3574,7 @@ berandalan nakal.
 
 760
 01:27:22,330 --> 01:27:34,893
-<font color=yellow>--- Penerjemah: Rizal Adam ---</font>
-http://rizaladam.wordpress.com
+Rizal
 
 761
 01:28:24,814 --> 01:28:26,170
@@ -6586,3 +6593,13 @@ minum. Ayo.
 1409
 02:52:27,093 --> 02:52:29,500
 Don Corleone.
+
+1410
+02:52:30,602 --> 02:52:35,499
+Rizal Adam
+
+1411
+02:52:37,553 --> 02:56:22,314
+Rizal Adam
+
+
