@@ -1,13 +1,4 @@
-﻿1
--00:00:01,542 --> 00:00:21,086
-<font color=yellow>--- Penerjemah: Rizal Adam ---</font>
-http://rizaladam.wordpress.com
-
-2
-00:00:34,074 --> 00:00:40,202
-<font color=yellow>Email: rizaladam@yahoo.com</font>
-
-3
+﻿3
 00:00:51,500 --> 00:00:57,381
 Aku percaya pada Amerika.
 Amerika telah beri rezeki untukku.
@@ -6595,13 +6586,3 @@ minum. Ayo.
 1409
 02:52:27,093 --> 02:52:29,500
 Don Corleone.
-
-1410
-02:52:30,602 --> 02:52:35,499
-<font color=yellow>Sumbawa, 9 Desember 2011</font>
-
-1411
-02:52:37,553 --> 02:56:22,314
-<font color=yellow>--- Penerjemah: Rizal Adam ---</font>
-http://rizaladam.wordpress.com
-
